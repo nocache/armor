@@ -1,0 +1,3 @@
+# As suggested in the Dev Center @ Heroku http://devcenter.heroku.com/articles/bundler
+.bundle
+.DS_Store
